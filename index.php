@@ -13,7 +13,7 @@
 <body>
     
     <div class="container">
-        <h2>Formulario lista de tareas</h2>
+        <h2> Ejemplo de Formulario lista de tareas</h2>
 
         <form method="POST" action="store.php">
             
